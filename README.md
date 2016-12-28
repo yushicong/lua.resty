@@ -12,3 +12,13 @@ apt-get install ......
 make -j2  
 
 make install
+
+
+
+
+git branch -m <old_branch_name> <new_branch_name>
+
+tar -cvf jpg.tar *.jpg
+
+-- 可以数出文件的行数
+wc -l filename
