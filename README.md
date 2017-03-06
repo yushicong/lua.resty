@@ -22,3 +22,8 @@ tar -cvf jpg.tar *.jpg
 
 -- 可以数出文件的行数
 wc -l filename
+
+
+-- scp
+
+scp root@10.165.120.25:/opt/images.zip ./
